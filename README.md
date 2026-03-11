@@ -53,7 +53,7 @@ Interested in **backend architecture, distributed systems, and event-driven appl
 
 ## 📜 Certifications
 
-- 🏅 **Oracle Certified Professional Java 21 (OCP 21)** *(in progress)*
+- 🏅 **Oracle Certified Professional Java 21 (OCP 21)**
 
 ---
 
