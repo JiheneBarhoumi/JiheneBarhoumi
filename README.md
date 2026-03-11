@@ -57,10 +57,4 @@ Interested in **backend architecture, distributed systems, and event-driven appl
 
 ---
 
-## 📄 Resume
-
-📥 **[Download my Resume](./JihenBarhoumi_Java_Backend_Engineer_CV.pdf)**
-
----
-
 ⭐ Always interested in **backend architecture, distributed systems, and scalable systems engineering.**
