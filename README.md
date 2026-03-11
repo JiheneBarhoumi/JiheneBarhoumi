@@ -1,4 +1,4 @@
-# 👩‍💻 Jihene Barhoumi
+# 👩‍💻 Jihen Barhoumi
 
 **Fullstack Java Backend Engineer | Spring Boot | Quarkus | Kafka | Microservices**
 
